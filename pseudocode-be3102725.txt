@@ -1,0 +1,15 @@
+PROGRAM SHOPPING CART
+
+READ AND WRITE "jumlahBarang" with number
+STORE "jumlahBarang" with 0
+
+WHILE "Add Barang"
+    READ AND WRITE "barang" with number 
+    STORE jumlahBarang with jumlahBarang plus barang
+
+PRINT "jumlahBarang"
+
+
+
+
+
